@@ -19,3 +19,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### About me
 i'm abdulmajeed aljadeed, want to be pehnomanal in dealing with data
+
+### for u
+thanks to udicaty team.
