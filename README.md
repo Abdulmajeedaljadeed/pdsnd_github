@@ -7,7 +7,7 @@
 Bikeshare project
 
 ### Description
-the project about Bike Share
+the project about Bike Share data
 
 ### Files used
 chicago.csv
